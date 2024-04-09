@@ -1,0 +1,3 @@
+### GET request with a header - jetbrains HTTP tester
+GET http://localhost:8090
+Accept: application/json
